@@ -1,54 +1,6 @@
-
-<!-- Đoạn mã HTML/CSS -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Starry Night</title>
-<style>
-body {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #000;
-}
-
-.stars {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: url('https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif');
-    z-index: -1;
-}
-
-.earth {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 200px;
-    height: 200px;
-    background-image: url('https://media.giphy.com/media/yfIP5kmmWbv4Y/giphy.gif');
-    background-size: cover;
-    background-position: center;
-    border-radius: 50%;
-    animation: spin 10s linear infinite;
-}
-
-@keyframes spin {
-    100% {
-        transform: rotate(360deg);
-    }
-}
-</style>
-</head>
-<body>
-<div class="stars"></div>
-<div class="earth"></div>
-</body>
-</html>
+<a href="#" target="_blank">
+  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+</a>
 
 
 ## 🌐Socials
