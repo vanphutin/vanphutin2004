@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Van Phu Tin</h1>
 <h3 align="center">A passionate full stack developer from Da Nang City.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanphutin2004&label=Profile%20views&color=0e75b6&style=flat" alt="vanphutin2004" /> </p>
 [![](https://visitcount.itsvg.in/api?id=vanphutin2004&icon=2&color=0)](https://visitcount.itsvg.in)
+
 - 🌱 I’m currently learning **Full stack developer web.**
 
 - 📫 How to reach me **vanphutin2902@gmail.com**
@@ -19,5 +19,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanphutin2004&show_icons=true&locale=en&layout=compact" alt="vanphutin2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanphutin2004&" alt="vanphutin2004" /></p>
-
-
